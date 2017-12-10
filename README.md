@@ -22,7 +22,8 @@ https://www.kaggle.com/sogun3/uspollution/data
 7.barchart3.png\
 8.barchart4.png\
 9.bargraph.png\
-10.scatter.png
+10.scatter.png\
+11.table.png
 
 
 
