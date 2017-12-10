@@ -76,15 +76,23 @@ In[11] Drop columns with missing values.\
 In[12] View the number of monitoring sites by state.\
 In[13] Drop all columns that aren't being analyzed.\
 In[14] View data header.\
+![alt text](https://github.com/kstaud85/dvproject3/blob/master/table.png)\
 In[15] View data shape, again.\
 In[16] View data tail.\
 In[17] Seaborn bar plot for NO2 Mean (by state)\
+![alt text](https://github.com/kstaud85/dvproject3/blob/master/barchart1.png)\
 In[18] Seaborn bar plot for O3 Mean (by state)\
+![alt text](https://github.com/kstaud85/dvproject3/blob/master/barchart2.png)\
 In[19] Seaborn bar plot for CO Mean (by state)\
+![alt text](https://github.com/kstaud85/dvproject3/blob/master/barchart3.png)\
 In[20] Seaborn bar plot for SO2 Mean (by state)\
+![alt text](https://github.com/kstaud85/dvproject3/blob/master/barchart4.png)\
 In[21] Plot all pollutants by state (bar plot).\
+![alt text](https://github.com/kstaud85/dvproject3/blob/master/bargraph.png)\
 In[46] Scatter plot for SO2 Mean and NO2 Mean by State.\
+![alt text](https://github.com/kstaud85/dvproject3/blob/master/scatter.png)\
 In[43] Bokeh Plot for SO2 AQI by State.
+![alt text](https://github.com/kstaud85/dvproject3/blob/master/bokeh_plot.png)\
 
 
 # V.Conclusion
